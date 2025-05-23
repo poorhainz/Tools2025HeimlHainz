@@ -2,6 +2,11 @@ THIS IS NOT A REAL JAVA FILE
 
 public void thisIsANewMethod(){
     int i = 4;
+
+    for(int i = 1; i < 234; i++){
+        
+    }
+
     System.out.printIn("Das ist eine Konflikt.");
     System.out.println("Das ist keine Print Funktion");
 
