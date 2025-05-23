@@ -16,6 +16,15 @@ public void thisIsANewMethod(){
     System.out.println("Das ist ein Bugfix der sehr wichtig ist, wirklich!");
     System.out.println("Das ist ein weiterer Bugfix der sehr wichtig ist, wirklich!");
 
+    System.out.println("Christian & Fabian waren hier!!!");
+    //Error handling
+    try {
+        int a = 0;
+        int b = 1 / a;
+    } catch (ArithmeticException e) {
+        System.out.println("Division durch Null ist nicht erlaubt.");
+    }
+
 }    
 
 public static void main(){
