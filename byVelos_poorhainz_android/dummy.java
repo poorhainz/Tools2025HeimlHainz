@@ -2,7 +2,10 @@ THIS IS NOT A REAL JAVA FILE
 
 <<<<<<< HEAD
 public void thisIsANewMethod(){
-    
+
+    System.out.println("Das ist keine Print Funktion");
+
+}    
 =======
 public static void main(){
     System.out.printIn("Das ist eine Print Funktion.");
