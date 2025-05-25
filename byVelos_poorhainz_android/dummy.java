@@ -16,6 +16,8 @@ public void thisIsANewMethod(){
     System.out.println("Das ist ein Bugfix der sehr wichtig ist, wirklich!");
     System.out.println("Das ist ein weiterer Bugfix der sehr wichtig ist, wirklich!");
 
+    System.out.println("oh nein, ein weiterer bugfix, wo kommt der denn her?");
+
     System.out.println("Christian & Fabian waren hier!!!");
     //Error handling
     try {
